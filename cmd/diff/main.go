@@ -6,7 +6,7 @@ import (
 	"log"
 
 	invest "github.com/TinkoffCreditSystems/invest-openapi-go-sdk"
-	"github.com/daniilty/tinkoff-invest-diff/internal/records"
+	"github.com/daniilty/tinkoff-invest-diff/records"
 )
 
 func run() error {
